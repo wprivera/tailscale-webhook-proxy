@@ -7,3 +7,6 @@ compatibility_date = "2023-10-02"
 # Docs: https://developers.cloudflare.com/workers/platform/environment-variables
 [vars]
 PUSHOVER_API_URL = "https://api.pushover.net"
+PUSHOVER_API_TOKEN = "a3ie43njw123ig66da6geb6kxu8pzx"
+PUSHOVER_USER_KEY = "ube73xk3fm43k5v6tcet8uxdq27qbr"
+TAILSCALE_WEBHOOK_SECRET = "tskey-webhook-kmq9YLsRTi11CNTRL-Cc5D9BwudjAkwsmiD5KkjA3f5vkUndwb"
